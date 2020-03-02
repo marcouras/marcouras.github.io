@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marco Uras / Site Title"
+title                    : "Marco Uras"
 title_separator          : "-"
 name                     : &name "Marco Uras"
 description              : &description "personal description"
